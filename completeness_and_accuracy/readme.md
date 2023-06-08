@@ -1,6 +1,7 @@
 # Completeness and accuracy.
 
 **completeness_and_accuracy.ipynb** - code  
+**test1.txt** - small test data  
 
 **Task description.**  
 We have an automatic license plate recognition system that accepts an image of a license plate as input and returns the recognized number as a string. The truck classifier is arranged as follows: it takes an image of the number as input, performs its recognition, and then checks the resulting string for compliance with the format adopted for trucks.  
