@@ -1,4 +1,4 @@
-# Prediction_dealers_revenue.
+# Prediction dealers revenue.
 
 **prediction.ipynb** - code  
 
